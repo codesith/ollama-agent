@@ -1,0 +1,5 @@
+notebook
+llama-index
+llama-index-llms-ollama
+llama-index-experimental
+matplotlib
